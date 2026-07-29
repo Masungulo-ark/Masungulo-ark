@@ -1,115 +1,187 @@
-# Hi there, I'm Masungulo Maluleka 👋
+<!-- ===========================
+     GitHub Profile README
+============================ -->
+
+<h1 align="center">Hi 👋, I'm Masungulo Maluleka</h1>
+
+<h3 align="center">
+Software Developer • Full-Stack Developer • Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Developer;React+%7C+FastAPI+%7C+Python;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;React+%7C+React+Native+Developer;FastAPI+%7C+ASP.NET+Developer;Python+%7C+C%23+%7C+Java+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Masungulo-ark&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Masungulo-ark?label=Followers&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/Masungulo-ark?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-I'm a passionate software developer from South Africa who enjoys building modern web applications and solving real-world problems through technology.
+💻 Passionate Full-Stack Software Developer from South Africa.
 
-I have experience developing full-stack applications using modern technologies, with a strong interest in:
+I enjoy designing and building scalable applications that solve real-world problems.
 
-- 🌐 Full-Stack Web Development
-- ⚛️ React.js
-- 🐍 Python & FastAPI
-- 📱 React Native
-- 🗄️ SQL Databases
-- ☁️ REST APIs
-- 🎨 UI/UX Design
-- 🔒 Authentication & Security
+Currently working on:
 
-I'm always looking to improve my skills by working on challenging projects and learning new technologies.
+- 🚀 Unified Virtual Career Fair & Job Portal System
+- 🚀 Code Clinic Platform
+- 📱 Mobile applications using React Native
+- ⚡ REST APIs with FastAPI
+- 🌐 Modern Web Applications with React
+
+I enjoy learning new technologies and constantly improving my software engineering skills.
 
 ---
 
-## 🚀 Current Project
+# 🚀 Tech Stack
 
-### Unified Virtual Career Fair & Job Portal System
+## Languages
 
-A comprehensive recruitment platform that connects:
+<p>
 
-- 🎓 Job Seekers
-- 🏢 Employers
-- 🤝 Recruitment Agencies
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+<img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net"/>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+---
+
+## Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎓 Unified Virtual Career Fair & Job Portal
+
+A modern recruitment platform connecting:
+
+- Job Seekers
+- Employers
+- Recruitment Agencies
 
 ### Features
 
-- User Authentication
-- Career Fair Management
-- Virtual Company Booths
-- Job Posting
-- Job Applications
+- Authentication
+- Career Fairs
 - Recruiter Dashboard
-- Job Seeker Dashboard
+- Job Posting
+- Applications
+- Virtual Booths
+- Notifications
 - Profile Management
-- Real-Time Updates
-
-### Tech Stack
-
-**Frontend**
-
-- React.js
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-
-**Backend**
-
-- FastAPI
-- Python
-
-**Database**
-
-- SQLite
-
-**Other Technologies**
-
-- JWT Authentication
-- REST API
-- Git
-- GitHub
 
 ---
 
-## 💻 Tech Stack
+### 🏥 Code Clinic
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Healthcare management platform built using FastAPI.
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Masungulo-ark&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Masungulo-ark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masungulo-ark&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -117,7 +189,7 @@ A comprehensive recruitment platform that connects:
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -127,37 +199,87 @@ A comprehensive recruitment platform that connects:
 
 ---
 
-## 🌱 Currently Learning
+# 📊 Activity Graph
 
-- Advanced React Patterns
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masungulo-ark&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Masungulo-ark&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# ⚡ Contribution Snake
+
+> Enable GitHub Actions in your profile repository and add the Snake workflow to make this animation work.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Masungulo-ark/Masungulo-ark/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Assembly Language
 - Docker
-- Cloud Deployment
 - System Design
 - Software Architecture
+- Cloud Deployment
+- DevOps
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Masungulo-ark)
+<p>
 
-<!-- Add more links if you'd like -->
+<a href="https://github.com/Masungulo-ark">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Add these when available -->
+
 <!--
-LinkedIn
-Portfolio
-Email
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+</a>
+
+<a href="mailto:you@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 -->
 
+</p>
+
 ---
 
-## 💡 Favorite Quote
+# 💬 Quote
 
-> *"The best way to predict the future is to create it."*
+> *"Code is not just about making computers work—it's about creating solutions that improve people's lives."*
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:7C3AED&height=120&section=footer"/>
 
 </p>

@@ -1,52 +1,67 @@
-<!-- ===========================
-     GitHub Profile README
-============================ -->
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Masungulo Maluleka</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer • Full-Stack Developer • Problem Solver
-</h3>
+<a href="https://github.com/Masungulo-ark">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Developer;React+%7C+React+Native+Developer;FastAPI+%7C+ASP.NET+Developer;Python+%7C+C%23+%7C+Java+Developer;Always+Learning+New+Technologies" />
-</p>
+<!-- Add LinkedIn -->
+<!--
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+-->
 
-<p align="center">
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Masungulo-ark&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Masungulo-ark.Masungulo-ark"/>
+</div>
 
-<img src="https://img.shields.io/github/followers/Masungulo-ark?label=Followers&style=for-the-badge&color=blue"/>
+# <div align="center">Hey there 👋 I'm Masungulo Maluleka</div>
 
-<img src="https://img.shields.io/github/stars/Masungulo-ark?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+<div align="center">
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=700&lines=Full-Stack+Software+Developer;React+%7C+FastAPI+%7C+ASP.NET+Developer;React+Native+Mobile+Developer;Python+%7C+Java+%7C+C%23+Developer;Building+Software+That+Solves+Real+Problems" />
 
----
-
-# 💫 About Me
-
-💻 Passionate Full-Stack Software Developer from South Africa.
-
-I enjoy designing and building scalable applications that solve real-world problems.
-
-Currently working on:
-
-- 🚀 Unified Virtual Career Fair & Job Portal System
-- 🚀 Code Clinic Platform
-- 📱 Mobile applications using React Native
-- ⚡ REST APIs with FastAPI
-- 🌐 Modern Web Applications with React
-
-I enjoy learning new technologies and constantly improving my software engineering skills.
+</div>
 
 ---
 
-# 🚀 Tech Stack
+## 👨‍💻 About Me
 
-## Languages
+🎓 Software Developer from South Africa
 
-<p>
+💻 Passionate about building scalable web and mobile applications.
+
+🚀 Currently developing:
+
+- 🎓 Unified Virtual Career Fair & Job Portal
+- 🏥 Code Clinic Management System
+
+🌱 Currently learning
+
+- Assembly Language
+- Docker
+- Cloud Deployment
+- Software Architecture
+
+⚡ Interests
+
+- Full-Stack Development
+- UI/UX Design
+- REST APIs
+- Mobile Development
+- System Design
+
+---
+
+# 🛠 Languages & Technologies
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
@@ -58,93 +73,33 @@ I enjoy learning new technologies and constantly improving my software engineeri
 
 <img src="https://skillicons.dev/icons?i=js"/>
 
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
 <img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-
-<img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net"/>
-
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-</p>
-
----
-
-## Mobile
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
 
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 
 <img src="https://skillicons.dev/icons?i=dotnet"/>
 
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net"/>
+<img src="https://skillicons.dev/icons?i=html"/>
 
-</p>
-
----
-
-## Database
-
-<p>
+<img src="https://skillicons.dev/icons?i=css"/>
 
 <img src="https://skillicons.dev/icons?i=sqlite"/>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-</p>
-
----
-
-## Tools
-
-<p>
-
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=visualstudio"/>
 
 <img src="https://skillicons.dev/icons?i=docker"/>
 
 <img src="https://skillicons.dev/icons?i=postman"/>
 
-</p>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+</div>
 
 ---
 
@@ -152,134 +107,68 @@ I enjoy learning new technologies and constantly improving my software engineeri
 
 ### 🎓 Unified Virtual Career Fair & Job Portal
 
-A modern recruitment platform connecting:
-
-- Job Seekers
-- Employers
-- Recruitment Agencies
-
-### Features
-
-- Authentication
-- Career Fairs
-- Recruiter Dashboard
-- Job Posting
-- Applications
-- Virtual Booths
-- Notifications
-- Profile Management
+A recruitment platform connecting employers, recruiters and job seekers through virtual career fairs.
 
 ---
 
 ### 🏥 Code Clinic
 
-Healthcare management platform built using FastAPI.
+A healthcare management platform built using FastAPI and modern web technologies.
 
 ---
 
-# 📈 GitHub Analytics
+# 🔥 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Masungulo-ark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Masungulo-ark&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masungulo-ark&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 Commit Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Masungulo-ark&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Masungulo-ark&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 # 📊 Activity Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masungulo-ark&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Masungulo-ark&theme=tokyo-night"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Masungulo-ark&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
+</div>
 
 ---
 
-# ⚡ Contribution Snake
+# 🐍 Contribution Snake
 
-> Enable GitHub Actions in your profile repository and add the Snake workflow to make this animation work.
+> Enable GitHub Actions to generate this automatically.
 
-<p align="center">
+<picture>
 
-<img src="https://raw.githubusercontent.com/Masungulo-ark/Masungulo-ark/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Masungulo-ark/Masungulo-ark/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Masungulo-ark/Masungulo-ark/output/github-contribution-grid-snake.svg"/>
 
----
+<img src="https://raw.githubusercontent.com/Masungulo-ark/Masungulo-ark/output/github-contribution-grid-snake.svg"/>
 
-# 🌱 Currently Learning
-
-- Assembly Language
-- Docker
-- System Design
-- Software Architecture
-- Cloud Deployment
-- DevOps
+</picture>
 
 ---
 
-# 📫 Connect With Me
+<div align="center">
 
-<p>
+> *"Great software isn't just written—it is engineered."*
 
-<a href="https://github.com/Masungulo-ark">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<!-- Add these when available -->
-
-<!--
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
-</a>
-
-<a href="mailto:you@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
--->
-
-</p>
-
----
-
-# 💬 Quote
-
-> *"Code is not just about making computers work—it's about creating solutions that improve people's lives."*
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:7C3AED&height=120&section=footer"/>
-
-</p>
+</div>

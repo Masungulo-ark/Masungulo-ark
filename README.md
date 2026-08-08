@@ -4,7 +4,10 @@
 
 ### Full-Stack Software Developer 🇿🇦
 
-
+```text
+React  •  FastAPI  •  ASP.NET  •  React Native
+Python •  Java     •  C#        •  C / C++
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&random=false&width=800&lines=Building+modern+web+%26+mobile+apps;React+%7C+FastAPI+%7C+ASP.NET+%7C+React+Native;Turning+coffee+into+code+since+day+one;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 

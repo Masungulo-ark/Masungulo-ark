@@ -78,7 +78,7 @@ A software solution focused on improving the management of clinic operations thr
 
 <img src="https://github-readme-stats.vercel.app/api?username=Masungulo-ark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Masungulo&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Masungulo-ark&hide_border=true" height="170"/>
 
 </div>
 
@@ -86,7 +86,7 @@ A software solution focused on improving the management of clinic operations thr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masungulo&layout=compact&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masungulo-ark&layout=compact&hide_border=true&langs_count=8" height="170"/>
 
 </div>
 

@@ -31,9 +31,6 @@ I'm particularly interested in **full-stack development**, web and mobile applic
 - 📱 Building web and mobile applications
 - 🚀 Always learning and improving
 
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ## 🛠️ Tech Stack

@@ -33,18 +33,6 @@ I'm particularly interested in **full-stack development**, web and mobile applic
 
 ---
 
-## 🚀 What I'm Working On
-
-### 💼 Unified Virtual Career Fair & Job Portal
-
-A platform designed to connect **job seekers, graduates, recruiters, and employers** through virtual career fairs and job opportunities.
-
-**React • FastAPI • SQLite • REST API**
-
-### 🏥 Code Clinic Management System
-
-A software solution focused on improving the management of clinic operations through digital technology.
-
 **React • Python • REST API • Database**
 
 ---

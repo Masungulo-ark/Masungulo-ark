@@ -50,7 +50,6 @@ I'm particularly interested in **full-stack development**, web and mobile applic
 ### Databases & Tools
 `SQLite` `mySQL` `SQL SERVER MANAGEMENT` `DOCKER`
 
----
 
 ## 📊 GitHub Stats
 
@@ -70,8 +69,6 @@ I'm particularly interested in **full-stack development**, web and mobile applic
 
 </div>
 
----
-
 ## 🐍 My Contributions
 
 <div align="center">
@@ -79,8 +76,6 @@ I'm particularly interested in **full-stack development**, web and mobile applic
 <img src="https://raw.githubusercontent.com/Masungulo-ark/Masungulo-ark/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-
----
 
 ## 📫 Let's Connect
 
@@ -99,8 +94,6 @@ I'm particularly interested in **full-stack development**, web and mobile applic
 </a>
 
 </div>
-
----
 
 <div align="center">
 

@@ -5,7 +5,7 @@
 
 # 👋 Hey, I'm Masungulo Maluleka
 
-### 💻 Software Developer | Final-Year Computer Science Student 🇿🇦
+### 💻 Software Developer | Final-Year Computer Science Student 
 
 <a href="https://github.com/Masungulo">
   <img src="https://komarev.com/ghpvc/?username=Masungulo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **final-year Computer Science student and software developer** from South Africa who enjoys building practical software that solves real-world problems.
+I'm a **final-year Computer Science student and software developer** at the university of johannessburg who enjoys building practical software that solves real-world problems.
 
 I'm particularly interested in **full-stack development**, web and mobile applications, APIs, and turning ideas into working software.
 
@@ -61,7 +61,6 @@ I'm particularly interested in **full-stack development**, web and mobile applic
 
 </div>
 
-<br>
 
 <div align="center">
 

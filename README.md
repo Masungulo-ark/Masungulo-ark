@@ -31,11 +31,6 @@ I'm particularly interested in **full-stack development**, web and mobile applic
 - 📱 Building web and mobile applications
 - 🚀 Always learning and improving
 
----
-
-**React • Python • REST API • Database**
-
----
 
 ## 🛠️ Tech Stack
 

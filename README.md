@@ -61,7 +61,6 @@ I'm particularly interested in **full-stack development**, web and mobile applic
 
 </div>
 
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masungulo-ark&layout=compact&hide_border=true&langs_count=8" height="170"/>

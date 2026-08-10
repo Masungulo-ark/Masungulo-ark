@@ -57,7 +57,7 @@ I'm particularly interested in **full-stack development**, web and mobile applic
 
 <img src="https://github-readme-stats.vercel.app/api?username=Masungulo-ark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Masungulo-ark&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=Masungulo-ark&hide_border=true" height="170"/>
 
 </div>
 
